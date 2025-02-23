@@ -1,0 +1,10 @@
+---
+title: "Multi-Robot Collaboration through Reinforcement Learning and Abstract Simulation"
+collection: publications
+category: conferences
+permalink: /publication/ICRA-2025-Multi-Agent
+venue: 'ICRA 2025'
+paperurl: 'http://AdamLabiosa.github.io/files/Multi_Robot_Collaboration_through_Reinforcement_Learning_and_Abstract_Simulation-3.pdf'
+---
+
+Teams of people coordinate to perform complex tasks by forming abstract mental models of world and agent dynamics. The use of abstract models contrasts with much recent work in robot learning that uses a high-fidelity simulator and reinforcement learning (RL) to obtain policies for physical robots. Motivated by this difference, we investigate the extent to which so-called \textit{abstract simulators} can be used for multi-agent reinforcement learning (MARL) and the resulting policies successfully deployed on teams of physical robots. An abstract simulator models the robot's target task at a high-level of abstraction and discards many details of the world that could impact optimal decision-making. Policies are trained in an abstract simulator then transferred to the physical robot by making use of separately-obtained low-level perception and motion control modules. We identify three key categories of modifications to the abstract simulator that enable policy transfer to physical robots: simulation fidelity enhancements, training optimizations and simulation stochasticity. We then run an empirical study with extensive ablations to determine the value of each modification category for enabling policy transfer in cooperative robot soccer tasks. We also compare the performance of policies produced by our methodology with a well-tuned non-learning-based behavior architecture from the annual RoboCup competition and find that our approach leads to a similar level of performance. Broadly we show that MARL can be use to train cooperative physical robot behaviors using highly abstract models of the world. 
