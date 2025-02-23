@@ -8,11 +8,5 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: https://drive.google.com/file/d/1SrsxC23ba14Le1qXJ_SwZ8hBgC20E6vA/view?usp=sharing

@@ -87,3 +87,10 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+
+
+# Useful links/commands:
+https://academicpages.github.io/markdown/
+
+To turn on local host: bundle exec jekyll serve
+Then it is at: http://127.0.0.1:4000
