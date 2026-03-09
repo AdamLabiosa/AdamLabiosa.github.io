@@ -3,6 +3,8 @@ title: "Multi-Robot Collaboration through Reinforcement Learning and Abstract Si
 collection: publications
 category: conferences
 permalink: /publication/ICRA-2025-Multi-Agent
+authors: 'Adam Labiosa, Josiah P Hanna'
+date: 2025-05-01
 venue: 'ICRA 2025'
 paperurl: 'http://AdamLabiosa.github.io/files/Multi_Robot_Collaboration_through_Reinforcement_Learning_and_Abstract_Simulation-3.pdf'
 ---

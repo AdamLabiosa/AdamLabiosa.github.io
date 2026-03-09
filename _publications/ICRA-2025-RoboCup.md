@@ -3,6 +3,8 @@ title: "Reinforcement Learning Within the Classical Robotics Stack: A Case Study
 collection: publications
 category: conferences
 permalink: /publication/ICRA-2025-RoboCup
+authors: 'Adam Labiosa, Zhihan Wang, Siddhant Agarwal, William Cong, Geethika Hemkumar, Abhinav Narayan Harish, Benjamin Hong, Josh Kelle, Chen Li, Yuhao Li, Zisen Shao, Peter Stone, Josiah P Hanna'
+date: 2025-05-01
 venue: 'ICRA 2025'
 paperurl: 'http://AdamLabiosa.github.io/files/ICRA_2025__RoboCup-3.pdf'
 ---
