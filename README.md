@@ -3,6 +3,13 @@
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
+# Quick commands
+
+To run the server locally:
+`bundle exec jekyll serve -l -H localhost --port 4000`
+
+Address: http://localhost:4000/
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
