@@ -6,7 +6,7 @@ permalink: /publication/ICRA-2025-RoboCup
 authors: 'Adam Labiosa, Zhihan Wang, Siddhant Agarwal, William Cong, Geethika Hemkumar, Abhinav Narayan Harish, Benjamin Hong, Josh Kelle, Chen Li, Yuhao Li, Zisen Shao, Peter Stone, Josiah P Hanna'
 date: 2025-05-01
 venue: 'ICRA 2025'
-paperurl: 'http://AdamLabiosa.github.io/files/ICRA_2025__RoboCup-3.pdf'
+paperurl: 'https://arxiv.org/pdf/2412.09417?'
 ---
 
 Robot decision-making in partially observable, real-time, dynamic, and multi-agent environments remains a difficult and unsolved challenge. Model-free reinforcement learning (RL) is a promising approach to learning decision-making in such domains, however, end-to-end RL in complex environments is often intractable. To address this challenge in the RoboCup Standard Platform League (SPL) domain, we developed a novel architecture integrating RL within a classical robotics stack, while employing a multi-fidelity sim2real approach and decomposing behavior into learned sub-behaviors with heuristic selection. Our architecture led to victory in the 2024 RoboCup SPL Challenge Shield Division.

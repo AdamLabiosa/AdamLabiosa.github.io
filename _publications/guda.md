@@ -6,5 +6,5 @@ permalink: /publication/guda
 authors: 'Nicholas E Corrado, Yuxiao Qu, John U Balis, Adam Labiosa, Josiah P Hanna'
 date: 2024-08-01
 venue: 'RLC 2024'
-paperurl: 'http://AdamLabiosa.github.io/files/guda.pdf'
+paperurl: 'https://arxiv.org/pdf/2310.18247'
 ---

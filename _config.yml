@@ -221,6 +221,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /notes/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -256,6 +259,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
     values:
       layout: single
       author_profile: true

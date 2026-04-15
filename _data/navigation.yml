@@ -7,6 +7,9 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Notes"
+    url: /notes/
     
   - title: "CV"
     url: /files/labiosa_cv.pdf
