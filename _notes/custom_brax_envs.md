@@ -8,9 +8,9 @@ tags:
 	- environments
 ---
 
-## Why this note exists
+## Context
 
-Short context for what problem this note solves.
+I think we all recognize brax environments are useful for very fast RL training. How do we create custom envs which are useful?
 
 ## Setup
 
