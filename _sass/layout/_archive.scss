@@ -5,6 +5,14 @@
 .archive {
   margin-bottom: 2em;
 
+  h2 + hr {
+    margin-bottom: 0.1em;
+  }
+
+  hr + .list__item .archive__item-title {
+    margin-top: 0.2em;
+  }
+
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
@@ -90,6 +98,12 @@
    ========================================================================== */
 
 .list__item {
+  .archive__item p {
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+  }
+
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
