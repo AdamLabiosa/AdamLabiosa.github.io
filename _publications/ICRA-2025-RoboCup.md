@@ -6,6 +6,7 @@ permalink: /publication/ICRA-2025-RoboCup
 authors: 'Adam Labiosa, Zhihan Wang, Siddhant Agarwal, William Cong, Geethika Hemkumar, Abhinav Narayan Harish, Benjamin Hong, Josh Kelle, Chen Li, Yuhao Li, Zisen Shao, Peter Stone, Josiah P Hanna'
 date: 2025-05-01
 venue: 'ICRA 2025'
+note: 'This work was also presented at the RoboLetics 2.0: Workshop on Athletic Robots and Dynamic Motor Skills where it won the Best RoboCup-Themed Paper Award.'
 paperurl: 'https://arxiv.org/pdf/2412.09417?'
 ---
 

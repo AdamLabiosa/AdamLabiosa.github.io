@@ -35,6 +35,7 @@ author_profile: true
             <p>{{ post.authors | replace: 'Adam Labiosa', '<strong>Adam Labiosa</strong>' }}</p>
           {% endif %}
           {% if post.venue %}<p><i>{{ post.venue }}</i></p>{% endif %}
+          {% if post.note %}<p><i>{{ post.note }}</i></p>{% endif %}
         </article>
       </div>
     {% endfor %}
@@ -51,6 +52,7 @@ author_profile: true
           {% endif %}
         </h2>
         {% if post.venue %}<p><i>{{ post.venue }}</i></p>{% endif %}
+        {% if post.note %}<p><i>{{ post.note }}</i></p>{% endif %}
       </article>
     </div>
   {% endfor %}
