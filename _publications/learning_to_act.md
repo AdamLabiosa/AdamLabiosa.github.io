@@ -1,5 +1,5 @@
 ---
-title: "Learning To Act While Thinking"
+title: "Learning to Act While Thinking"
 collection: publications
 category: conferences
 permalink: /publication/learning_to_act
