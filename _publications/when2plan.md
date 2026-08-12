@@ -6,5 +6,5 @@ permalink: /publication/when2plan
 authors: 'Adam Labiosa, Josiah P. Hanna'
 date: 2026-03-01
 venue: 'RLC 2026'
-paperurl: 'https://arxiv.org/pdf/2607.16421'
+paperurl: 'https://rlj.cs.umass.edu/2026/papers/Paper94.pdf'
 ---
