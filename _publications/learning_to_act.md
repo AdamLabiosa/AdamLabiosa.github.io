@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/learning_to_act
 authors: 'Adam Labiosa, Josiah P. Hanna'
 date: 2026-06-24
-venue: 'Preprint'
+venue: 'Submitted to ICLR 2027'
 note: 'An earlier version appeared at the Reinforcement Learning in Big Worlds Workshop at RLC 2026.'
 paperurl: '/files/learning_to_act_while_thinking.pdf'
 ---
