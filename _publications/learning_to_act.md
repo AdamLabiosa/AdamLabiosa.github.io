@@ -6,5 +6,5 @@ permalink: /publication/learning_to_act
 authors: 'Adam Labiosa, Josiah P. Hanna'
 date: 2026-06-24
 venue: 'Reinforcement Learning in Big Worlds Workshop at RLC 2026'
-paperurl: '/files/lawt.pdf'
+paperurl: '/files/learning_to_act_while_thinking.pdf'
 ---
