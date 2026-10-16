@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm looking for summer 2027 a research scientist internship with a focus on reinforcement learning and real-time decision making! Feel free to reach out if you (or anyone you know) may be interested!
+I'm looking for a summer 2027 research scientist internship with a focus on reinforcement learning and real-time decision making! Feel free to reach out if you (or anyone you know) may be interested!
 
 I am currently a PhD candidate in computer science at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Josiah Hanna](https://pages.cs.wisc.edu/~jphanna/index.html). My research is focused on enabling intelligent agents to perform complex tasks in the real world. Toward this end, I study reinforcement learning (RL), a branch of machine learning where agents learn through interaction.
 
