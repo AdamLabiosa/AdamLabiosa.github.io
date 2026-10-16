@@ -17,7 +17,7 @@ site_theme               : "default"
 title                    : "Adam Labiosa"
 title_separator          : "-"
 name                     : &name "Adam Labiosa"
-description              : &description "Adam Labiosa, CS PhD student at UW-Madison researching reinforcement learning, meta-reasoning, and robot learning."
+description              : &description "Adam Labiosa, CS PhD student at UW-Madison. Reinforcement learning, meta-reasoning, and robot learning."
 url                      : https://AdamLabiosa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AdamLabiosa/AdamLabiosa.github.io"
@@ -30,7 +30,7 @@ author:
   avatar           : "profile.png"
   name             : "Info"
   pronouns         : # example: "she/her"  
-  bio              : "CS PhD candidate at UW-Madison. Meta-reasoning & reinforcement learning."
+  bio              : "CS PhD candidate at UW-Madison. Reinforcement learning, meta-reasoning, and robot learning."
   location         : "Madison, WI"
   employer         : "University of Wisconsin-Madison"
   uri              : # URL
@@ -187,6 +187,10 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - README.md
+  - CONTRIBUTING.md
+  - docker-compose.yaml
+  - markdown_generator
   - tmp
   - vendor
 keep_files:
@@ -218,19 +222,10 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   notes:
     output: true
     permalink: /notes/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -255,15 +250,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _notes
   - scope:
       path: ""
@@ -282,23 +268,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
