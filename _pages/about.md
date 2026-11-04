@@ -9,11 +9,11 @@ redirect_from:
 ---
 I'm looking for a summer 2027 research scientist internship with a focus on reinforcement learning and real-time decision making! Feel free to reach out if you (or anyone you know) may be interested!
 
-I am currently a PhD candidate in computer science at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Josiah Hanna](https://pages.cs.wisc.edu/~jphanna/index.html). My research is focused on enabling intelligent agents to perform complex tasks in the real world. Toward this end, I study reinforcement learning (RL), a branch of machine learning where agents learn through interaction.
+I am currently a PhD candidate in computer science at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/){:target="_blank" rel="noopener"}, advised by [Josiah Hanna](https://pages.cs.wisc.edu/~jphanna/index.html){:target="_blank" rel="noopener"}. My research is focused on enabling intelligent agents to perform complex tasks in the real world. Toward this end, I study reinforcement learning (RL), a branch of machine learning where agents learn through interaction.
 
-My dissertation is focused on meta-reasoning with RL in real-time domains, i.e., how an agent can learn to allocate computation. Additionally, I'm working on VLAs for [workplace robotics](https://integrate.wisc.edu/) as an NSF NRT fellow and [robot soccer](https://pages.cs.wisc.edu/~jphanna/robocup.html) on our RoboCup team.
+My dissertation is focused on meta-reasoning with RL in real-time domains, i.e., how an agent can learn to allocate computation. Additionally, I'm working on VLAs for [workplace robotics](https://integrate.wisc.edu/){:target="_blank" rel="noopener"} as an NSF NRT fellow and [robot soccer](https://pages.cs.wisc.edu/~jphanna/robocup.html){:target="_blank" rel="noopener"} on our RoboCup team.
 
-Previously, I completed my BS in Electrical Engineering and Computer Science at the [University of Wisconsin-Madison](https://engineering.wisc.edu/).
+Previously, I completed my BS in Electrical Engineering and Computer Science at the [University of Wisconsin-Madison](https://engineering.wisc.edu/){:target="_blank" rel="noopener"}.
 
 ## News
 
