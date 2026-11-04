@@ -17,10 +17,10 @@ Previously, I completed my BS in Electrical Engineering and Computer Science at 
 
 ## News
 
-- **Jun 2026:** [When to Plan: Learning to Select Between Reactive Control and Deliberative Planning](/files/labiosa_when_2026.pdf) presented at the 2026 Reinforcement Learning Conference!
+- **Jun 2026:** [When to Plan: Learning to Select Between Reactive Control and Deliberative Planning](/files/labiosa_when_2026.pdf){:target="_blank" rel="noopener"} presented at the 2026 Reinforcement Learning Conference!
 - **Jan 2026:** Received NSF NRT Integrate fellowship!
 - **Sep 2025:** Started internship at Amazon in NYC!
 - **Jul 2025:** Our team took 3rd in the RoboCup 2025 SPL Champions Cup!
-- **May 2025:** Two papers at ICRA 2025. [Reinforcement Learning Within the Classical Robotics Stack](/files/labiosa_reinforcement_2025.pdf) won the Best RoboCup-Themed Paper Award at the RoboLetics 2.0 workshop!
+- **May 2025:** Two papers at ICRA 2025. [Reinforcement Learning Within the Classical Robotics Stack](/files/labiosa_reinforcement_2025.pdf){:target="_blank" rel="noopener"} won the Best RoboCup-Themed Paper Award at the RoboLetics 2.0 workshop!
 - **Jul 2024:** Our team won the RoboCup 2024 SPL Challenge Shield!
 - **Jul 2023:** Our team took 3rd at our first RoboCup in the 2023 SPL Challenge Shield!
